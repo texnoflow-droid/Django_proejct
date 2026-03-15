@@ -1,3 +1,4 @@
+https://img.shields.io/badge/github-repo-blue?logo=github
 ![Django](https://img.shields.io/badge/Django-Project-orange?style=for-the-badge&logo=django)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 # 🎸 Django Professional Project Structure
