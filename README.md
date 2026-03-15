@@ -1,4 +1,5 @@
-{ "schemaVersion": 1, "label": "Dj", "message": "project", "color": "orange" }
+![Django](https://img.shields.io/badge/Django-Project-orange?style=for-the-badge&logo=django)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 # 🎸 Django Professional Project Structure
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
